@@ -1,0 +1,38 @@
+input: ./
+output: .retype
+url: docs.thedevs.org
+branding:
+  title: TheDevs
+  logo: /Public/img/prismo-light.png
+  logoDark: /Public/img/prismo.png
+  label: Guide
+editor:
+  enabled: false
+links:
+- text: Home
+  link: /
+  icon: home
+- text: GitHub
+  link: https://github.com/TheDevs-org
+  icon: mark-github
+- text: Website
+  link: https://thedevs.org
+  icon: server
+cache:
+  strategy: query
+favicon: Public/img/prismo.ico
+gravatar.default: robohash
+meta:
+  title: " | TheDevs - The AI Lagacy"
+  description: "TheDevs (DevMind) a API with AI capabilities, made for developers by developers."
+server:
+  host: 127.0.0.1:5005
+footer:
+  copyright: "© Copyright {{ year }}. [TheDevs, Inc.](https://thedevs.org/) All rights reserved."
+  links:
+  - text: GitHub
+    link: https://github.com/TheDevs-org
+  - text: Website
+    link: https://thedevs.org
+  - text: License
+    link: LICENSE
