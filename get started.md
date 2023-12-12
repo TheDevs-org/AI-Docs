@@ -102,13 +102,11 @@ Response
 ```js
 {
   "_id": "6577633846976d3e0400c3d7",
-  "api_key": "theDevs_2y3ikea72ryv5ca79xys",
+  "api_key": "theDevs_xxxxxxxxxxxxxxxxxxxx",
   "limit": 1000,
   "llmconfig": null,
   "plan": "free",
   "usage": 0,
-  "username": "priyanshu"
+  "username": "The Devs"
 }
 ```
-
-[!embed](https://www.youtube.com/embed/A5dCAoaYWTE)

@@ -3,8 +3,8 @@ output: .retype
 url: docs.thedevs.org
 branding:
   title: TheDevs
-  logo: /Public/img/prismo-light.png
-  logoDark: /Public/img/prismo.png
+  logo: /Public/img/logo.png
+  logoDark: /Public/img/logo.png
   label: Guide
 editor:
   enabled: false
@@ -20,7 +20,7 @@ links:
   icon: server
 cache:
   strategy: query
-favicon: Public/img/prismo.ico
+favicon: Public/img/logo.ico
 gravatar.default: robohash
 meta:
   title: " | TheDevs - The AI Lagacy"

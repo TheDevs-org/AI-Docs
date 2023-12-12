@@ -5,6 +5,7 @@
 DevMind is designed to seamlessly integrate reasoning across various models, including **text**, **images**, **video**, **audio**, and **code**, to develope like a pro! DevMind enhances your project with AI capabilities.
 
 ## Features
+- **Real Time Data**
 - **Faster API Response**
 - **100% Uptime**
 - **Multi Model Support**

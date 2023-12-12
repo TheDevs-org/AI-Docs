@@ -1,20 +1,37 @@
 ---
-title: Chat
+title: Chat Completions
 icon: dot-fill
 sidebar_position: 1
 ---
 
-With Chat AI, you can make your app interact with people or any subject!
+DevMind's Chat Completions model is an advanced AI technology designed to understand natural languages, code, and various inputs, while generating accurate and relevant text outputs.
 
-### Payload
+#### Features:
+- Ability to comprehend and process natural languages
+- Strong capacity for code interpretation and generation
+- Capability to handle all types of question or writing documents, e.t.c
+
+## Understanding Natural Languages
+The Chat Completions model is trained on extensive datasets to comprehend and process natural languages effectively.
+#### Example:
+- The model can understand and respond to conversational prompts: "What is the weather like today in New York?"
+- It can handle queries in different formats: "Can you provide me with some details about the company's products?"
+
+## Processing Code
+DevMind's model excels in interpreting and generating code, making it a powerful tool for developers and programmers.
+#### Example:
+- The model can help with code completion: "Complete the following code snippet: if (condition) {"
+- It can generate code based on user inputs: "Create a function that calculates the average of an array."
+
+## Payload
 - **Field**: `q` (Required)
   - **Type**: String
-  - **Description**: The query you want to send to the Bard AI.
+  - **Description**: The query you want to send to the DevMind AI.
 - **Field**: `ref` (Optional)
   - **Type**: String
   - **Description**: Reference information, if applicable.
 
-## Here is how you can setup
+## Here is an example how to use DevMind's Chat Completions
 +++ Python
 ```python
 import request
@@ -50,15 +67,18 @@ axios.post('https://devmind.thedevs.org/chat', payload, { headers })
 +++Rust
 ```rust
 use reqwest;
+use serde_json::json;
 
 #[tokio::main]
 async fn main() -> Result<(), reqwest::Error> {
     let url = "https://devmind.thedevs.org/chat";
     let headers = [("Authorization", "theDevs_xxxxxxxxxxxxxxxxxxxx")];
-    let payload = [("q", "Who are you?")];
+    let payload = json!({
+        "q": "Who are you?"
+    });
 
     let client = reqwest::Client::new();
-    let response = client.post(url).headers(headers).form(&payload).send().await?;
+    let response = client.post(url).headers(headers).json(&payload).send().await?;
 
     let body = response.text().await?;
     println!("{}", body);
