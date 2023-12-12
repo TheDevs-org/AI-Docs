@@ -141,4 +141,4 @@ Response:
 ```
 
 ## Example Image
-<img src="/Public/img/swap.png" />
+<img src="https://media.discordapp.net/attachments/928129177654272021/1184123574051676220/swap.png?ex=658ad404&is=65785f04&hm=5a226128042689f6f02f28d301e64a3d1bc3b906f894dfbfa61cb61071cbef42&=&format=webp&quality=lossless&width=1280&height=640" />

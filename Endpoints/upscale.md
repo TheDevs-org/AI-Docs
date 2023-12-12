@@ -125,4 +125,4 @@ Response:
 ```
 
 ## Example Image
-<img src="/Public/img/upscale.png" />
+<img src="https://media.discordapp.net/attachments/928129177654272021/1184123574399815750/upscale.png?ex=658ad404&is=65785f04&hm=326f275650576880dfbe93c881b3f3a147fcf32ba214f82c28079ef8a5f2131b&=&format=webp&quality=lossless&width=1280&height=640" />

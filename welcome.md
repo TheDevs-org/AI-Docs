@@ -1,4 +1,4 @@
-# <img src="/Public/img/devmind.png" alt="Banner" />
+# <img src="https://media.discordapp.net/attachments/928129177654272021/1184123619857674271/devmind.png?ex=658ad40e&is=65785f0e&hm=dc868fa799807fd38e44a11fbf72081f43429ac1a79e289d76d74c6ce28f97d1&=&format=webp&quality=lossless&width=1267&height=662" alt="Banner" />
 
 # Introduction
 

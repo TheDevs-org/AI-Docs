@@ -137,4 +137,4 @@ Response:
 ```
 
 ## Example Images
-<img src="/Public/img/magic.png" />
+<img src="https://media.discordapp.net/attachments/928129177654272021/1184123575129612298/magic.png?ex=658ad404&is=65785f04&hm=2888c49759e6fbc7acc43d14769d657140181619007f20cf6f24a2aa51cbd2b4&=&format=webp&quality=lossless&width=1280&height=640" />

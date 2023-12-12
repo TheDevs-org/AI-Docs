@@ -163,4 +163,4 @@ Response:
 ```
 
 ## Example Images
-<img src="/Public/img/mascot-collage.png" style="border-radius: 5px" />
+<img src="https://media.discordapp.net/attachments/928129177654272021/1184123576354361374/mascot-collage.png?ex=658ad404&is=65785f04&hm=b0b9396c7adf9df66863a97c04bd12e44d2f4921d5b2a49ba2d5031211348698&=&format=webp&quality=lossless&width=696&height=662" style="border-radius: 5px" />

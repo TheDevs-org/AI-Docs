@@ -135,4 +135,4 @@ Response:
 ```
 
 ## Example Image
-<img src="/Public/img/scribble.png" />
+<img src="https://media.discordapp.net/attachments/928129177654272021/1184123573732917329/scribble.png?ex=658ad403&is=65785f03&hm=73906b27c7725b37774ad372da23d5759a456376c3911fba4a9b470ed68f4f60&=&format=webp&quality=lossless&width=1280&height=640" />

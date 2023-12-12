@@ -175,4 +175,4 @@ Response:
 ```
 
 ## Example Images
-<img src="/Public/img/imagine-collage.png" style="border-radius: 5px" />
+<img src="https://media.discordapp.net/attachments/928129177654272021/1184123623540277278/imagine-collage.png?ex=658ad40f&is=65785f0f&hm=e0948f97aa8ad2e50cba2ef06875a3d4a757f6d94c00feb8bfead8776345c310&=&format=webp&quality=lossless&width=696&height=662" style="border-radius: 5px" />
