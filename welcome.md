@@ -1,4 +1,4 @@
-# <img src="https://media.discordapp.net/attachments/928129177654272021/1184123619857674271/devmind.png?ex=658ad40e&is=65785f0e&hm=dc868fa799807fd38e44a11fbf72081f43429ac1a79e289d76d74c6ce28f97d1&=&format=webp&quality=lossless&width=1267&height=662" alt="Banner" />
+# <img src="https://cdn.discordapp.com/attachments/928129177654272021/1184131434521309255/20231212_192437_0000.png?ex=658adb56&is=65786656&hm=49af093498d2244b682fb9e7733a511be672c6bf2539224f78aad7273a874c9f&" alt="Banner" />
 
 # Introduction
 
