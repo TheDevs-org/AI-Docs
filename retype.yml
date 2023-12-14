@@ -23,7 +23,7 @@ cache:
 favicon: Public/img/logo.ico
 gravatar.default: robohash
 meta:
-  title: " | TheDevs - The AI Lagacy"
+  title: " | TheDevs - The AI Era"
   description: "TheDevs (DevMind) a API with AI capabilities, made for developers by developers."
 server:
   host: 127.0.0.1:5005
