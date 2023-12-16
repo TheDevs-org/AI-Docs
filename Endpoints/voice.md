@@ -10,7 +10,7 @@ DevMind's Voice – the ultimate audio metamorphosis tool. Seamlessly alter the 
 - Squidward
 - MrKrabs
 - Plankton
-- Drak
+- Drake
 - Vader
 - Trump
 - Biden
